@@ -28,7 +28,6 @@
     <Pin Name="Pin73" Signal="QSPI-IO1" />
     <Pin Name="Pin74" Signal="QSPI-IO0" />
     <Pin Name="Pin75" Signal="QSPI-SCK" />
-    <Pin Name="Pin76" Signal="GPIO-Output" />
     <Pin Name="Pin77" Signal="EXMC-DATA13" />
     <Pin Name="Pin78" Signal="EXMC-DATA14" />
     <Pin Name="Pin79" Signal="EXMC-DATA15" />
@@ -67,16 +66,15 @@
     <Pin Name="Pin143" Signal="I2C1-SDA" />
   </ConfiguredPins>
   <ConfiguredGPIOs>
-    <GPIOConfig Name="PB15" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
-    <GPIOConfig Name="PG3" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
-    <GPIOConfig Name="PA11" Signal="USBFS-DM" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
-    <GPIOConfig Name="PA12" Signal="USBFS-DP" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PC14" Signal="XTAL32-OUT" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PC15" Signal="XTAL32-IN" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
     <GPIOConfig Name="PH0" Signal="XTAL-IN" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
     <GPIOConfig Name="PH1" Signal="XTAL-OUT" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
-    <GPIOConfig Name="PC15" Signal="XTAL32-IN" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
-    <GPIOConfig Name="PC14" Signal="XTAL32-OUT" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
-    <GPIOConfig Name="PG4" Signal="GPIO-Input" Dir="IN" OutputMode="n/a" OutputLevel="n/a" PU="OFF" Latch="n/a" Drive="n/a" Invt="OFF" ExtI="OFF" DDIS="DIGITAL" InputMode="SMT" />
     <GPIOConfig Name="PC0" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
+    <GPIOConfig Name="PG3" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
+    <GPIOConfig Name="PG4" Signal="GPIO-Input" Dir="IN" OutputMode="n/a" OutputLevel="n/a" PU="OFF" Latch="n/a" Drive="n/a" Invt="OFF" ExtI="OFF" DDIS="DIGITAL" InputMode="SMT" />
+    <GPIOConfig Name="PA11" Signal="USBFS-DM" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PA12" Signal="USBFS-DP" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
   </ConfiguredGPIOs>
   <ConfiguredEIRQs />
   <ConfiguredADC1Chs>
