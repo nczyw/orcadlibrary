@@ -2,13 +2,18 @@
 <UserConfig>
   <SelectedPartNo>HC32F4A0RITB-LQFP144</SelectedPartNo>
   <ConfiguredPins>
+    <Pin Name="Pin8" Signal="XTAL32-OUT" />
+    <Pin Name="Pin9" Signal="XTAL32-IN" />
+    <Pin Name="Pin23" Signal="XTAL-IN" />
+    <Pin Name="Pin24" Signal="XTAL-OUT" />
+    <Pin Name="Pin26" Signal="GPIO-Output" />
     <Pin Name="Pin27" Signal="ETH-SMI-MDC" />
     <Pin Name="Pin35" Signal="ETH-MII-RMII-RXCLK" />
     <Pin Name="Pin36" Signal="ETH-SMI-MDIO" />
     <Pin Name="Pin43" Signal="ETH-MII-RMII-RXDV" />
     <Pin Name="Pin44" Signal="ETH-MII-RMII-RXD0" />
     <Pin Name="Pin45" Signal="ETH-MII-RMII-RXD1" />
-    <Pin Name="Pin57" Signal="GPIO-Output" />
+    <Pin Name="Pin56" Signal="TIM6-2-PWMB" />
     <Pin Name="Pin58" Signal="EXMC-DATA4" />
     <Pin Name="Pin59" Signal="EXMC-DATA5" />
     <Pin Name="Pin60" Signal="EXMC-DATA6" />
@@ -18,32 +23,60 @@
     <Pin Name="Pin66" Signal="EXMC-DATA10" />
     <Pin Name="Pin67" Signal="EXMC-DATA11" />
     <Pin Name="Pin68" Signal="EXMC-DATA12" />
-    <Pin Name="Pin69" Signal="GPIO-Output" />
+    <Pin Name="Pin69" Signal="QSPI-IO2" />
     <Pin Name="Pin70" Signal="ETH-MII-RMII-TXEN" />
-    <Pin Name="Pin73" Signal="ETH-MII-RMII-TXD0" />
-    <Pin Name="Pin74" Signal="ETH-MII-RMII-TXD1" />
-    <Pin Name="Pin75" Signal="GPIO-Input" />
+    <Pin Name="Pin73" Signal="QSPI-IO1" />
+    <Pin Name="Pin74" Signal="QSPI-IO0" />
+    <Pin Name="Pin75" Signal="QSPI-SCK" />
     <Pin Name="Pin76" Signal="GPIO-Output" />
     <Pin Name="Pin77" Signal="EXMC-DATA13" />
     <Pin Name="Pin78" Signal="EXMC-DATA14" />
     <Pin Name="Pin79" Signal="EXMC-DATA15" />
-    <Pin Name="Pin80" Signal="SPI1-SCK" />
-    <Pin Name="Pin81" Signal="SPI1-MISO" />
-    <Pin Name="Pin82" Signal="SPI1-MOSI" />
+    <Pin Name="Pin80" Signal="QSPI-IO3" />
     <Pin Name="Pin85" Signal="EXMC-DATA0" />
     <Pin Name="Pin86" Signal="EXMC-DATA1" />
     <Pin Name="Pin87" Signal="EXMC-ADD12" />
+    <Pin Name="Pin88" Signal="GPIO-Output" />
+    <Pin Name="Pin89" Signal="GPIO-Input" />
+    <Pin Name="Pin90" Signal="SPI1-SCK" />
+    <Pin Name="Pin91" Signal="SPI1-MOSI" />
+    <Pin Name="Pin92" Signal="SPI1-MISO" />
+    <Pin Name="Pin93" Signal="SPI1-NSS0" />
+    <Pin Name="Pin97" Signal="QSPI-NSS" />
+    <Pin Name="Pin98" Signal="SDIO1-D0" />
+    <Pin Name="Pin99" Signal="SDIO1-D1" />
+    <Pin Name="Pin101" Signal="SDIO1-D2" />
+    <Pin Name="Pin102" Signal="SDIO1-CD" />
+    <Pin Name="Pin103" Signal="USBFS-DM" />
+    <Pin Name="Pin104" Signal="USBFS-DP" />
+    <Pin Name="Pin105" Signal="JTMS-SWDIO" />
+    <Pin Name="Pin109" Signal="JTCK-SWCLK" />
+    <Pin Name="Pin110" Signal="USART4-RX" />
+    <Pin Name="Pin111" Signal="USART4-TX" />
+    <Pin Name="Pin112" Signal="SDIO1-D3" />
+    <Pin Name="Pin113" Signal="SDIO1-CK" />
     <Pin Name="Pin114" Signal="EXMC-DATA2" />
     <Pin Name="Pin115" Signal="EXMC-DATA3" />
+    <Pin Name="Pin116" Signal="SDIO1-CMD" />
     <Pin Name="Pin118" Signal="EXMC-OE" />
     <Pin Name="Pin119" Signal="EXMC-WE" />
     <Pin Name="Pin127" Signal="EXMC-CE3" />
+    <Pin Name="Pin128" Signal="ETH-MII-RMII-TXD0" />
+    <Pin Name="Pin129" Signal="ETH-MII-RMII-TXD1" />
+    <Pin Name="Pin142" Signal="I2C1-SCL" />
+    <Pin Name="Pin143" Signal="I2C1-SDA" />
   </ConfiguredPins>
   <ConfiguredGPIOs>
-    <GPIOConfig Name="PB10" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
-    <GPIOConfig Name="PG1" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
     <GPIOConfig Name="PB15" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
-    <GPIOConfig Name="PB14" Signal="GPIO-Input" Dir="IN" OutputMode="n/a" OutputLevel="n/a" PU="OFF" Latch="n/a" Drive="n/a" Invt="OFF" ExtI="OFF" DDIS="DIGITAL" InputMode="SMT" />
+    <GPIOConfig Name="PG3" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
+    <GPIOConfig Name="PA11" Signal="USBFS-DM" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PA12" Signal="USBFS-DP" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PH0" Signal="XTAL-IN" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PH1" Signal="XTAL-OUT" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PC15" Signal="XTAL32-IN" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PC14" Signal="XTAL32-OUT" Dir="n/a" OutputMode="n/a" OutputLevel="n/a" PU="n/a" Latch="n/a" Drive="n/a" Invt="n/a" ExtI="n/a" DDIS="ANALOG" InputMode="n/a" />
+    <GPIOConfig Name="PG4" Signal="GPIO-Input" Dir="IN" OutputMode="n/a" OutputLevel="n/a" PU="OFF" Latch="n/a" Drive="n/a" Invt="OFF" ExtI="OFF" DDIS="DIGITAL" InputMode="SMT" />
+    <GPIOConfig Name="PC0" Signal="GPIO-Output" Dir="OUT" OutputMode="CMOS" OutputLevel="RST" PU="n/a" Latch="OFF" Drive="LOW" Invt="OFF" ExtI="n/a" DDIS="DIGITAL" InputMode="n/a" />
   </ConfiguredGPIOs>
   <ConfiguredEIRQs />
   <ConfiguredADC1Chs>
@@ -399,7 +432,7 @@
   <SPIx_4 En="false" 主从模式选择="SLAVE" 线模式选择="4_WIRE" 通信模式选择="FULL_DUPLEX" 奇偶校验模式选择="INVD" 奇偶校验自诊断="DISABLE" 模式故障错误检测允许="DISABLE" SPI模式选择="MD_1" 波特率预分频="DIV256" 数据长度="32BIT" First位="MSB" 帧数设定="1" 通讯自动挂起功能允许="OFF" 回环设定="INVD" SS信号有效设定="SS0" SS高电平有效设定="DISABLE" 主机下次存取延迟时间设定="1SCK" 主机SS无效延迟时间设定="1SCK" 主机SS闲置时间设定="1SCK" 空闲中断允许="DISABLE" 接受中断允许="DISABLE" 发送中断允许="DISABLE" 错误中断允许="DISABLE" />
   <SPIx_5 En="false" 主从模式选择="SLAVE" 线模式选择="4_WIRE" 通信模式选择="FULL_DUPLEX" 奇偶校验模式选择="INVD" 奇偶校验自诊断="DISABLE" 模式故障错误检测允许="DISABLE" SPI模式选择="MD_1" 波特率预分频="DIV256" 数据长度="32BIT" First位="MSB" 帧数设定="1" 通讯自动挂起功能允许="OFF" 回环设定="INVD" SS信号有效设定="SS0" SS高电平有效设定="DISABLE" 主机下次存取延迟时间设定="1SCK" 主机SS无效延迟时间设定="1SCK" 主机SS闲置时间设定="1SCK" 空闲中断允许="DISABLE" 接受中断允许="DISABLE" 发送中断允许="DISABLE" 错误中断允许="DISABLE" />
   <SPIx_6 En="false" 主从模式选择="SLAVE" 线模式选择="4_WIRE" 通信模式选择="FULL_DUPLEX" 奇偶校验模式选择="INVD" 奇偶校验自诊断="DISABLE" 模式故障错误检测允许="DISABLE" SPI模式选择="MD_1" 波特率预分频="DIV256" 数据长度="32BIT" First位="MSB" 帧数设定="1" 通讯自动挂起功能允许="OFF" 回环设定="INVD" SS信号有效设定="SS0" SS高电平有效设定="DISABLE" 主机下次存取延迟时间设定="1SCK" 主机SS无效延迟时间设定="1SCK" 主机SS闲置时间设定="1SCK" 空闲中断允许="DISABLE" 接受中断允许="DISABLE" 发送中断允许="DISABLE" 错误中断允许="DISABLE" />
-  <QSPI En="false" En1="false" En2="false" PERBREn="false" PERCREn="false" StrList="0.0" 基准时钟选择="DIV64" SPI模式选择="MD0" 预读取模式设置="INVD" 读取模式选择="STD_RD" 虚拟周期设置="CYCLE3" 地址宽度选择="32BIT_INSTR_24BIT" WP管脚输出电平设置="LOW" 外部扩展块设置="0" QSSN输出延时设置="QSCK1P5" QSSN释放延时设置="QSCK1P5" QSSN最小无效时间设置="QSCK16" 指令SPI协议选择="1LINE" 地址SPI协议选择="1LINE" 数据SPI协议选择="1LINE" />
+  <QSPI En="false" En1="false" En2="false" PERBREn="false" PERCREn="true" StrList="0.0" 基准时钟选择="DIV64" SPI模式选择="MD0" 预读取模式设置="INVD" 读取模式选择="STD_RD" 虚拟周期设置="CYCLE3" 地址宽度选择="32BIT_INSTR_24BIT" WP管脚输出电平设置="LOW" 外部扩展块设置="0" QSSN输出延时设置="QSCK1P5" QSSN释放延时设置="QSCK1P5" QSSN最小无效时间设置="QSCK16" 指令SPI协议选择="1LINE" 地址SPI协议选择="1LINE" 数据SPI协议选择="1LINE" />
   <I2Cx 模块单元="I2C1" />
   <I2Cx_1 En="false" En1="false" En2="false" StrList="07.06.50000.000.000" 主从选择="Master" 基准时钟频率设定="DIV1" 单双地址选择="Single" 从机地址0格式="7BIT" 从机地址1格式="7BIT" 开始条件中断允许="DISABLE" 从机地址0匹配中断允许="DISABLE" 从机地址1匹配中断允许="DISABLE" 发送结束中断允许="DISABLE" 停止条件中断允许="DISABLE" 接受数据满中断允许="DISABLE" 发送数据空中断允许="DISABLE" 仲裁失败中断允许="DISABLE" NACK中断允许="DISABLE" 超时中断允许="DISABLE" 广播呼叫地址匹配中断允许="DISABLE" />
   <I2Cx_2 En="false" En1="false" En2="false" StrList="07.06.50000.000.000" 主从选择="Master" 基准时钟频率设定="DIV1" 单双地址选择="Single" 从机地址0格式="7BIT" 从机地址1格式="7BIT" 开始条件中断允许="DISABLE" 从机地址0匹配中断允许="DISABLE" 从机地址1匹配中断允许="DISABLE" 发送结束中断允许="DISABLE" 停止条件中断允许="DISABLE" 接受数据满中断允许="DISABLE" 发送数据空中断允许="DISABLE" 仲裁失败中断允许="DISABLE" NACK中断允许="DISABLE" 超时中断允许="DISABLE" 广播呼叫地址匹配中断允许="DISABLE" />
