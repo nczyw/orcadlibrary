@@ -4,3 +4,4 @@
 !*.xml
 !*/
 !library/*.OLB
+!library/*.opj
