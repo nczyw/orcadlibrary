@@ -26,12 +26,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\selflibrary.olb")
-      (Select "Design Resources" ".\selflibrary.olb" "HC32F460KCTA"))
+      (Path "Design Resources"
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
+      (Select "Design Resources"
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "Resistance"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 349 0 684"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 345 0 657"))
       (Tab 0)))
   (MPSSessionName "Sublime"))
