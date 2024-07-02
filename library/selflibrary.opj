@@ -29,11 +29,11 @@
       (Path "Design Resources"
          "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
       (Select "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "Resistance"))
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "Capacitance SC"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 345 0 657"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 453 0 620"))
       (Tab 0)))
   (MPSSessionName "Sublime"))
