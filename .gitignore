@@ -3,6 +3,10 @@
 !*.md
 !*.xml
 !*/
-!library/*.OLB
-!library/*.opj
-!lib/**
+#library
+!*.OLB
+!*.opj
+#footprint
+!*.psm
+!*.pad
+!*.dra
