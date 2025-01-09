@@ -1,0 +1,12 @@
+*
+!.gitignore
+!*.md
+!*.xml
+!*/
+#library
+!*.OLB
+!*.opj
+#footprint
+!*.psm
+!*.pad
+!*.dra
