@@ -5,3 +5,4 @@
 !*/
 !library/*.OLB
 !library/*.opj
+!lib/**

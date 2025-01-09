@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : 0603.dra                                      )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Thu Jan  9 13:25:06 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jan  9 13:25:06 2025				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = '0603.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/symbols 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/pcb/pcb_lib/symbols 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrcadUsers/Library/footprint 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/local/pcb/padstacks 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/pcb/pcb_lib/symbols 
+           D:/Software/Cadence/Cadence_SPB_17.4-2019/share/pcb/allegrolib/symbols 
+           D:/OrcadUsers/Library/footprint 
+           D:/OrcadUsers/Library/bsm 
+           C:/Users/Sublime/Desktop/allegrotest 
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX0_8Y0_85'  pad stack refresh starting.
+
+     'RX0_8Y0_85'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

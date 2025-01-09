@@ -1,0 +1,43 @@
+\t (00:00:11) allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Thu Jan  9 16:59:59 2025
+\t (00:00:11)         Host=SUBLIME-PC User=Sublime Pid=14772 CPUs=8
+\t (00:00:11) CmdLine= D:\Software\Cadence\Cadence_SPB_17.4-2019\tools\bin\allegro.exe
+\t (00:00:11) 
+\d (00:00:11) Design opened: D:/orcadlibrary/orcadlibrary/lib/0402/0402.dra
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 0.6535 -0.0773
+\i (00:00:13) trapsize 484
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 0.6535 -0.0773
+\i (00:00:13) trapsize 242
+\i (00:00:18) show element 
+\i (00:00:18) pick grid 0.5229 0.0389
+\t (00:00:18) last pick:  0.5000 0.0500
+\i (00:00:23) setwindow text
+\i (00:00:23) close
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid -0.4640 -0.0095
+\t (00:00:24) last pick:  -0.4500 0.0000
+\i (00:00:25) setwindow text
+\i (00:00:25) close
+\i (00:00:26) setwindow pcb
+\i (00:00:26) prepopup 1.9162 0.5613
+\i (00:00:26) done 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.3114 0.3049
+\i (00:00:27) trapsize 484
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.3115 0.3050
+\i (00:00:27) trapsize 968
+\i (00:00:41) open 
+\e (00:00:41) Do you want to save the changes you made to 0402.dra?
+\i (00:00:42) fillin no 
+\i (00:00:48) fillin "D:/orcadlibrary/orcadlibrary/lib/0603/0603.dra"
+\i (00:00:48) cd "D:/orcadlibrary/orcadlibrary/lib/0603"
+\t (00:00:48) Opening existing design...
+\i (00:00:48) trapsize 967
+\t (00:00:48)     Journal end - Thu Jan  9 17:00:36 2025
