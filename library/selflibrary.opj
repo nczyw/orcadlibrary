@@ -29,19 +29,12 @@
       (Path "Design Resources"
          "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
       (Select "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "NCV8705"))
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "CA-IS3741"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 245 0 646"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1370 28 692"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "NCV8705")
-      (PartType "1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 285 0 622"))
+      (Tab 0)))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
