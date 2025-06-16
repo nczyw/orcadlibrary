@@ -8,6 +8,13 @@
  - 添加`Datasheet`属性,为元件数据手册
 
 ## BOM导出
- - 修改:`Footprint`对应值`'{User Footprint}`
- - 添加:`Supplier Part`对应值`'{Buy}`
- - 添加:`Datasheet`对应值`'{Datasheet}`
+ - 需要添加的选项
+   - 修改:`Footprint`对应值`'{User Footprint}`
+   - 添加:`Supplier Part`对应值`'{Buy}`
+   - 添加:`Datasheet`对应值`'{Datasheet}`
+ - 普通完整指令
+   - `Header`:`'Item\t'Quantity\t'Reference\t'Part\t'Footprint\t'Supplier Part\t'Datasheet`
+   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Buy}\t'{Datasheet}`
+ - 嘉立创完整指令
+   - `Header`:`'Item\t'Quantity\t'Designator\t'Comment\t'Footprint\t'Supplier Part\t'Datasheet`
+   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Buy}\t'{Datasheet}`
