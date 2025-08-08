@@ -29,26 +29,19 @@
       (Path "Design Resources"
          "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
       (Select "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "HC32F4A0RITB"))
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 239 0 652"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 281 0 652"))
       (Tab 0))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1376 28 698"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1330 28 698"))
       (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "HC32F4A0TIHB")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1376 28 698"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "HC32F4A0RITB")
+      (Package "RELAY_1NO")
       (PartType "1")))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
