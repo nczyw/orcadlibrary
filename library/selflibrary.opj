@@ -34,21 +34,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 391 0 652"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1220 28 698"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "UWTRANSFORMER")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1220 28 698"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "AMC1200")
-      (PartType "1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 309 0 676"))
+      (Tab 0)))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
