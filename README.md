@@ -7,6 +7,10 @@
  - 添加`Buy`属性,为供应商数据
  - 添加`Datasheet`属性,为元件数据手册
 
+## PDF导出
+ - 需要排除一些不必要的选项
+ - `Designator`,`Implementation Type`,`Implementation`,`Implementation Path`,`Primitive`
+
 ## BOM导出
  - 需要添加的选项
    - 修改:`Footprint`对应值`'{User Footprint}`
