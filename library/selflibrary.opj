@@ -34,14 +34,21 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 673"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 398 0 649"))
       (Tab 0))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1411 28 695"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1213 28 695"))
       (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "AD7938")
+      (Package "POTENTIAL TRANSFORMER")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1213 28 695"))
+      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
+      (Package "CURRENT TRANSFORMER")
       (PartType "1")))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
