@@ -11,3 +11,5 @@
 !*.pad
 !*.ssm
 !*.dra
+#param
+!*.prm
