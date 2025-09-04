@@ -29,12 +29,12 @@
       (Path "Design Resources"
          "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
       (Select "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb" "ADA4938-2"))
+         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 307 0 647"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 299 0 631"))
       (Tab 0)))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
