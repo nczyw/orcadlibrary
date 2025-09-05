@@ -26,15 +26,20 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
       (Select "Design Resources"
          "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 299 0 631"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 264 0 631"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1347 28 677"))
+      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
+      (Package "ADA4938-2")
+      (PartType "1")))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
