@@ -34,21 +34,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 305 0 590"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1306 28 636"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "ADA4938-2")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1306 28 636"))
-      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
-      (Package "AC-DC 2TO2")
-      (PartType "1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 329 0 590"))
+      (Tab 0)))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
