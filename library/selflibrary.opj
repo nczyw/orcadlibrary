@@ -26,16 +26,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb")
-      (Select "Design Resources"
-         "d:\orcadlibrary\orcadlibrary\library\selflibrary.olb"
-         "KF2EDGSKM-7.62-5P"))
+      (Path "Design Resources" ".\selflibrary.olb")
+      (Select "Design Resources" ".\selflibrary.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 265 0 589"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 282 0 521"))
       (Tab 0)))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
