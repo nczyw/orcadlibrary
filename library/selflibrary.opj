@@ -34,7 +34,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 335 0 652"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 333 0 641"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1278 28 687"))
+      (Path "D:\ORCADLIBRARY\ORCADLIBRARY\LIBRARY\SELFLIBRARY.OLB")
+      (Package "78L09")
+      (PartType "1")))
   (MPSSessionName "Sublime")
   (ISPCBBASICLICENSE "false"))
