@@ -13,7 +13,7 @@
 
 ## 元件制作
  - 添加`User Footprint`属性,为导出BOM表的封装名字
- - 添加`Supplier Number`属性,为供应商内部编号
+ - 添加`Supplier Part`属性,为供应商内部编号
  - 添加`Purchase link`属性,为采购链接
  - 添加`Datasheet`属性,为元件数据手册
 
