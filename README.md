@@ -24,12 +24,12 @@
 ## BOM导出
  - 需要添加的选项
    - 修改:`Footprint`对应值`'{User Footprint}`
-   - 添加:`Supplier Part`对应值`'{Supplier Number}`
+   - 添加:`Supplier Part`对应值`'{Supplier Part}`
    - 添加:`Purchase link`对应值`'{Purchase link}`
    - 添加:`Datasheet`对应值`'{Datasheet}`
  - 普通完整指令,不能导出长度超过255长度的属性，否则会截断
-   - `Header`:`'Item\t'Quantity\t'Reference\t'Part\t'Footprint\t'Supplier Part\t'Datasheet`
-   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Supplier Number}`
+   - `Header`:`'Item\t'Quantity\t'Reference\t'Part\t'Footprint\t'Supplier Part`
+   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Supplier Part}`
  - 嘉立创完整指令,不能导出长度超过255长度的属性，否则会截断
-   - `Header`:`'Item\t'Quantity\t'Designator\t'Comment\t'Footprint\t'Supplier Part\t'Datasheet`
-   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Supplier Number}`
+   - `Header`:`'Item\t'Quantity\t'Designator\t'Comment\t'Footprint\t'Supplier Part`
+   - `Combined property string`:`{Item}\t{Quantity}\t'{Reference}\t'{Value}\t'{User Footprint}\t'{Supplier Part}`
