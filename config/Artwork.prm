@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CadenceAllegroParameter>
+
+  <parameter_header>
+    <version>17.4</version>
+  </parameter_header>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>1</sequence>
+      <film_name>TOP</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>2</sequence>
+      <film_name>BOTTOM</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>3</sequence>
+      <film_name>DRILL_DRAWING</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>DESIGN_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>CUTOUT</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>4</sequence>
+      <film_name>OUTLINE</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>DESIGN_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>CUTOUT</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>5</sequence>
+      <film_name>PASTEMASK_BOTTOM</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>6</sequence>
+      <film_name>PASTEMASK_TOP</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>7</sequence>
+      <film_name>SOLDERMASK_BOTTOM</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>8</sequence>
+      <film_name>SOLDERMASK_TOP</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>9</sequence>
+      <film_name>SILKSCREEN_BOTTOM</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>10</sequence>
+      <film_name>SILKSCREEN_TOP</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>11</sequence>
+      <film_name>DISPLAY</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.0000 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>ENIG_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>ENIG_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>ENEPIG_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>ENEPIG_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>IMMERSION_TIN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>IMMERSION_TIN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>IMMERSION_SILVER_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>IMMERSION_SILVER_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>OSP_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>OSP_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>GOLD_HARD_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>GOLD_HARD_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>GOLD_SOFT_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>GOLD_SOFT_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>TIN_PLATE_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>TIN_PLATE_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>CARBON_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>CARBON_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>SILVER_INK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>SURFACE FINISHES</class>
+      <subclass>SILVER_INK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>ZONE_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>BEND_AREA</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>BEND_LINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>TRANSITION_ZONE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>COVERLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>COVERLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>EMI_SHIELD_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>EMI_SHIELD_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>STIFFENER_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>STIFFENER_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>STIFFENER_METAL_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>RIGID FLEX</class>
+      <subclass>STIFFENER_METAL_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA KEEPOUT</class>
+      <subclass>ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA KEEPOUT</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA KEEPOUT</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>FILMMASKTOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>FILMMASKBOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>USER PART NUMBER</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>TOLERANCE</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ROUTE KEEPOUT</class>
+      <subclass>ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ROUTE KEEPOUT</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ROUTE KEEPOUT</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ROUTE KEEPIN</class>
+      <subclass>ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>FILMMASKTOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>FILMMASKBOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE KEEPOUT</class>
+      <subclass>ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE KEEPOUT</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE KEEPOUT</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE KEEPIN</class>
+      <subclass>ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PLACE_BOUND_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PLACE_BOUND_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PIN_NUMBER</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PAD_STACK_NAME</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>BODY_CENTER</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>MODULES</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>DFA_BOUND_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>DFA_BOUND_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>MODEL_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>LOW_ISOCONTOUR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>MEDIUM1_ISOCONTOUR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>MEDIUM2_ISOCONTOUR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>MEDIUM3_ISOCONTOUR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>HIGH_ISOCONTOUR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>PCB_TEMPERATURE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ANALYSIS</class>
+      <subclass>__EPB_SCRATCH_ACON_SPACE_POLY</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>PHOTOPLOT_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_GLOSS_ALL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_GLOSS_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_GLOSS_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_GLOSS_INTERNAL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NCDRILL_LEGEND</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NCDRILL_FIGURE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>PROBE_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>PROBE_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>AUTOSILK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>AUTOSILK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_PROBE_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NO_PROBE_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>XSECTION_CHART</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>NCLEGEND-1-2</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>TITLE_BLOCK</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>TITLE_DATA</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>REVISION_BLOCK</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>REVISION_DATA</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DRAWING FORMAT</class>
+      <subclass>CONSTRUCTION</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>DEVICE TYPE</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>COMPONENT VALUE</class>
+      <subclass>ASSEMBLY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>COMPONENT VALUE</class>
+      <subclass>ASSEMBLY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>COMPONENT VALUE</class>
+      <subclass>DISPLAY_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>COMPONENT VALUE</class>
+      <subclass>DISPLAY_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>PLATING_BAR</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>ASSEMBLY_NOTES</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>TOOLING_CORNERS</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>DIMENSION</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>PLACE_GRID_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>PLACE_GRID_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>TOP_ROOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>BOTTOM_ROOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>BOTH_ROOMS</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SWITCH_AREA_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SWITCH_AREA_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>ASSEMBLY_DETAIL</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>OFF_GRID_AREA</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>WB_GUIDE_LINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>DESIGN_OUTLINE</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>CUTOUT</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>NCROUTE_PATH</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>12</sequence>
+      <film_name>CROSS_SECTION</film_name>
+      <ipc2581_layer_name></ipc2581_layer_name>
+      <undef_line_width>0.1524 MM</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+      <unique_id>0</unique_id>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.0000,0.0000</offset>
+      <block_name></block_name>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <unique_id>0</unique_id>
+      <shape_bound>2.5400 MM</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>MANUFACTURING</class>
+      <subclass>XSECTION_CHART</subclass>
+      <unique_id>0</unique_id>
+    </art_class_type>
+  </artwork_film>
+
+</CadenceAllegroParameter>
